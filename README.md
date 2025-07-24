@@ -60,3 +60,6 @@ The process of using data to learn and solve problems.
 
 # Reference
 [AI for everyone](https://www.coursera.org/programs/advanced-digital-skills-5a-cpt-july2025-fs5qr/learn/ai-for-everyone?source=search)  
+
+# Certicate  
+[Click here to view my completion certificate](https://coursera.org/share/50a6011bd051d43b7db0686f9335e544)
