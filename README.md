@@ -18,13 +18,19 @@ AGI (Artificial General Intelligence)- Can do anything a human can do.
 3. Test it to make sure it works well,
 4. Use it in the real world (Deployment).
 
+**How to choose AI project**  
+Before committing to a big AI project, conduct due diligence on it.  
+Go through its:  
+-Technical diligence (Making sure that the AI system you want to build is doable0.
+-Business diligence( Make sure project is valuable for the business).  
+
 # Machine Learning
 A branch of Artificial Intelligence that allows computers to learn from data and improve their performance over time without being programmed for every task.  
 
 **How It Works:**  
-1. Data is collected.  
-2. The computer looks for patterns in that data.   
-3. It then makes predictions or decisions based on what it learned.  
+1. Collect data.  
+2. Train model (computer looks for patterns in that data).   
+3. Deploy model (It then makes predictions or decisions based on what it learned).  
 
 **Types of Machine Learning**  
 Supervised Learning – The computer learns from labeled data.  
@@ -33,6 +39,12 @@ Reinforcement Learning – The computer learns by trial and error.
 **Data is information that can be collected, stored, and used to learn or make decisions.**  
 
 Deep Learning is special kind of machine learning good for things like speech and image recognition.  
+# Data Science  
+The process of using data to learn and solve problems.  
+**How it works:**  
+1. Collect data.
+2. Analyza data.
+3. Suggest hypotheses (Make smart guesses/ pridictions)
 
 # Reference
 [AI for everyone](https://www.coursera.org/programs/advanced-digital-skills-5a-cpt-july2025-fs5qr/learn/ai-for-everyone?source=search)  
