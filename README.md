@@ -21,7 +21,7 @@ AGI (Artificial General Intelligence)- Can do anything a human can do.
 **How to choose AI project**  
 Before committing to a big AI project, conduct due diligence on it.  
 Go through its:  
--Technical diligence (Making sure that the AI system you want to build is doable0.
+-Technical diligence (Making sure that the AI system you want to build is doable).  
 -Business diligence( Make sure project is valuable for the business).  
 
 # Machine Learning
