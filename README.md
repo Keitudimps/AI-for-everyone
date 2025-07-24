@@ -2,7 +2,8 @@
 This Course is offered by Deeplearning.ai on Coursera  
 **Author:** [Andrew Ng](https://www.coursera.org/instructor/andrewng)  
 This course is a non-technical course that explains how AI works and how it can be applied in business and society.
-#AI 
+
+#AI  
 AI(Artificial Intelligence) is the ability of machines to perform tasks that usually require human intelligence.  
 **Types of AI**
 ANI(Artificial narrow intelligence)- These only perform one task e.g. speackers.  
