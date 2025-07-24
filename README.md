@@ -48,7 +48,7 @@ Unsupervised Learning – The computer finds patterns in unlabeled data.
 Reinforcement Learning – The computer learns by trial and error.  
 **Data is information that can be collected, stored, and used to learn or make decisions.**   
 
-Deep Learning is special kind of machine learning good for things like speech and image recognition.  __________________________________________________________________________________________________   
+Deep Learning is special kind of machine learning good for things like speech and image recognition.  __________________________________________________________________________________________________     
 # Data Science  
 The process of using data to learn and solve problems.  
 **How it works:**  
