@@ -9,6 +9,20 @@ AI(Artificial Intelligence) is the ability of machines to perform tasks that usu
 **Types of AI**  
 ANI(Artificial narrow intelligence)- These only perform one task e.g. speackers.  
 Generative AI- builds new content like pictures or stories based on what it has learned e.g. ChatGPT.  
-AGI(Artificial General Intelligence)- Can do anything a human can do.  
+AGI(Artificial General Intelligence)- Can do anything a human can do.
+
+# Machine Learning
+A branch of Artificial Intelligence that allows computers to learn from data and improve their performance over time without being programmed for every task.  
+
+**How It Works:**  
+1. Data is collected.  
+2. The computer looks for patterns in that data.   
+3. It then makes predictions or decisions based on what it learned.  
+
+**Types of Machine Learning**
+Supervised Learning – The computer learns from labeled data.  
+Unsupervised Learning – The computer finds patterns in unlabeled data.  
+Reinforcement Learning – The computer learns by trial and error.  
+
 # Reference
 [AI for everyone](https://www.coursera.org/programs/advanced-digital-skills-5a-cpt-july2025-fs5qr/learn/ai-for-everyone?source=search)  
