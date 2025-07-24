@@ -12,7 +12,7 @@ ANI (Artificial narrow intelligence)- These only perform one task e.g. speackers
 Generative AI- builds new content like pictures or stories based on what it has learned e.g. ChatGPT.  
 AGI (Artificial General Intelligence)- Can do anything a human can do.
 
-**How to Build an AI Project**
+**How to Build an AI Project**  
 1. Get data (lots of examples),
 2. Train the AI model with that data,
 3. Test it to make sure it works well,
