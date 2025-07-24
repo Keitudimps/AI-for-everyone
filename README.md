@@ -5,7 +5,7 @@ This course is a non-technical course that explains how AI works and how it can 
 
 # AI  
 AI(Artificial Intelligence) is the ability of machines to perform tasks that usually require human intelligence.  
-**Types of AI**
+**Types of AI**  
 ANI(Artificial narrow intelligence)- These only perform one task e.g. speackers.  
 Generative AI- builds new content like pictures or stories based on what it has learned e.g. ChatGPT.  
 AGI(Artificial General Intelligence)- Can do anything a human can do.  
